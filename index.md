@@ -7,7 +7,7 @@ hero:
   text: "新服务器网站！"
   tagline: 1.20.1 服务器第三次重启！
   image:
-    src: /logo.png
+    src: .vitepress/public/logo.png
     alt: LeipishuServer
   actions:
     - theme: brand
