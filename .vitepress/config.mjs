@@ -52,6 +52,10 @@ export default defineConfig({
 
     search: {
       provider: 'local',
+    },
+    editLink: {
+      pattern: 'https://github.com/leipishu/ServerWebsiteNew/edit/main/:path',
+      text: '编辑此页'
     }
   }
 })
