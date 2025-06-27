@@ -56,6 +56,7 @@ export default defineConfig({
     editLink: {
       pattern: 'https://github.com/leipishu/ServerWebsiteNew/edit/main/:path',
       text: '编辑此页'
-    }
+    },
+    lastUpdated: true
   }
 })

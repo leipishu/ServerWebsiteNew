@@ -8,6 +8,34 @@ description: 服务器公告，用于同步服务器消息！
 
 ## 最新
 
+### 2025/6/27
+服务器模组通知：
+
+**新增模组`[窗帘] curtain-mc1.20.1-1.3.2`**
+
+功能: forge版的`carpet`模组，提供包括假人在内的重要生电功能
+
+::: details 下载
+下载地址：[前往→](https://www.curseforge.com/api/v1/mods/845348/files/4704521/download)
+（也可通过PCL直接下载：搜索`curtain`或`窗帘`）
+
+CurseForge地址：[前往→](https://www.curseforge.com/minecraft/mc-mods/curtain)
+
+Modrinth地址：[前往→](https://modrinth.com/mod/curtain)
+
+MCMod地址：[前往→](https://www.mcmod.cn/class/9907.html)
+
+:::
+
+::: danger 警告
+该模组为服务器及客户端双端模组，请玩家必须加入，否则可能无法加入服务器或出现故障
+:::
+
+
+
+
+## 旧（仅作记录）
+
 ### 2025/6/24
 服务器升级通知：
  - 服务器变配至`B++.I.L.L`
@@ -15,10 +43,6 @@ description: 服务器公告，用于同步服务器消息！
 ::: info 提示
 如果要看到图标变化生效，需要刷新服务器列表或删除并重新添加服务器
 :::
-
-
-
-## 旧（仅作记录）
 
 ### 2025/2/12
 服务器成员`Ryan_Fengrh`因私自骑乘服务器其他成员已登记并养殖于后山岩浆世外桃源的炽足兽`The Lava Storm`被处以Leipishu-SMP史上第一次公开处罚。
