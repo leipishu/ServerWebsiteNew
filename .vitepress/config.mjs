@@ -10,7 +10,9 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '服务器准则', link: '/rules' },
       { text: '服务器公告', link: '/notices' },
-      { text: '服务器备案', link: '/records' }
+      { text: '服务器备案', link: '/records' },
+      { text: '服务器教程', link: '/tutorials' },
+      { text: '常见错误解决', link: '/troubleshooting' }
     ],
 
     sidebar: [
