@@ -13,7 +13,7 @@ hero:
     - theme: brand
       text: 服务器公约
       link: /rules
-    - theme: alt
+    - theme: brand
       text: 服务器公告
       link: /notices
     - theme: alt
@@ -22,6 +22,9 @@ hero:
     - theme: alt
       text: 服务器教程
       link: /tutorials
+    - theme: alt
+      text: 常见错误解决
+      link: /troubleshooting
 
 features:
   - icon: 🚀

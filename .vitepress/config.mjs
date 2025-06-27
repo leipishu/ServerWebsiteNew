@@ -33,6 +33,27 @@ export default defineConfig({
           { text: '导航页', link: '/tutorials' },
           { text: '下载服务器文件', link: '/tutorials/download-server-files' }
         ]
+      },
+      {
+        text: '常见错误解决',
+        collapsible: true,
+        collapsed: false,
+        items: [
+          { 
+            text: '无法连接至服务器？', 
+            link: '/troubleshooting',
+            items: [
+              { text: '连接超时', link: '/troubleshooting#_1-connection-timed-out-连接超时' },
+              { text: '模组不匹配', link: '/troubleshooting#_2-mod-rejection-模组不匹配' },
+              { text: '缺少模组', link: '/troubleshooting#_3-missing-mods-xxx-缺少模组' },
+              { text: '登录失败', link: '/troubleshooting#_4-failed-to-login-登录失败' },
+              { text: '版本不符', link: '/troubleshooting#_5-outdated-server-版本不符' },
+              { text: '无效会话', link: '/troubleshooting#_6-invalid-session-无效的会话' },
+              { text: '未知主机', link: '/troubleshooting#_7-unknown-host-未知的主机' },
+              { text: '验证服务器宕机', link: '/troubleshooting#_8-authentication-servers-are-down-身份验证服务器宕机' }
+            ]
+          },
+        ] 
       }
     ],
 
