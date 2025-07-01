@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Leipishu 服务器",
-  description: "新服务器网站！",
+  description: "一周年庆典🎉",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
