@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Leipishu 服务器"
-  text: "一周年庆典🎉"
-  tagline: 1.20.1 服务器第三次重启！
+  text: "二周年庆典🎉"
+  tagline: 1.20.1 服务器第四次重启！
   image:
     src: /1st.png
     alt: LeipishuServer
