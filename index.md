@@ -28,8 +28,8 @@ hero:
 
 features:
   - icon: 🎂
-    title: 一周年庆典
-    details: 服务器一周年庆典，欢迎大家参与当前玩家雕像建造活动！
+    title: 二周年庆典
+    details: 服务器二周年庆典，欢迎大家参与当前研究中心建造活动！
   - icon: ✨
     title: 版本
     details: 1.20.1 JAVA 原版生存
