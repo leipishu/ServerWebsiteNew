@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Leipishu 服务器",
-  description: "一周年庆典🎉",
+  description: "二周年庆典🎉",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -12,7 +12,8 @@ export default defineConfig({
       { text: '服务器公告', link: '/notices' },
       { text: '服务器备案', link: '/records' },
       { text: '服务器教程', link: '/tutorials' },
-      { text: '常见错误解决', link: '/troubleshooting' }
+      { text: '常见错误解决', link: '/troubleshooting' },
+      { text: '服务器机器', link: '/machine_list' },
     ],
 
     sidebar: [
@@ -56,6 +57,18 @@ export default defineConfig({
             ]
           },
         ] 
+      },
+      {
+        text: '服务器机器',
+        collapsible: true,
+        collapsed: false,
+        items: [
+          { text: '小黑塔', link: '/machine_list#小黑塔' },
+          { text: '刷沙机', link: '/machine_list#刷沙机' },
+          { text: '潜影贝农场', link: '/machine_list#潜影贝农场' },
+          { text: '刷铁机', link: '/machine_list#刷铁机' },
+          { text: '守卫者农场', link: '/machine_list#守卫者农场' }
+        ]
       }
     ],
 
@@ -66,7 +79,7 @@ export default defineConfig({
 
     footer: {
       message: '基于MIT协议开源',
-      copyright: 'Copyright © 2024-2025 Leipishu',
+      copyright: 'Copyright © 2024-2026 Leipishu',
       links: [
         { text: '隐私政策', link: '/privacy' },
         { text: '使用条款', link: '/terms' }

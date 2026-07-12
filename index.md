@@ -7,7 +7,7 @@ hero:
   text: "二周年庆典🎉"
   tagline: 1.20.1 服务器第四次重启！
   image:
-    src: /1st.png
+    src: /2nd.png
     alt: LeipishuServer
   actions:
     - theme: brand
@@ -25,6 +25,9 @@ hero:
     - theme: alt
       text: 常见错误解决
       link: /troubleshooting
+    - theme: alt
+      text: 机器列表
+      link: /machine_list
 
 features:
   - icon: 🎂
